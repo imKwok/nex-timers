@@ -38,7 +38,7 @@ public class NexTimersPlugin extends Plugin
 	private NexTimersOverlay nexTimersOverlay;
 
 	public int currentPhaseNum = -1;
-    public int[] startTicks = {0, 0, 0, 0 ,0 ,0 ,0 ,0 ,0 ,0};
+    	public int[] startTicks = {0, 0, 0, 0 ,0 ,0 ,0 ,0 ,0 ,0};
 	public int[] endTicks 	= {0, 0, 0, 0 ,0 ,0 ,0 ,0 ,0 ,0};
 	public int totalTime = -1;
 
